@@ -341,7 +341,7 @@ p {
     font-weight: 900;
     color: rgba(221, 209, 209, 0.037);
     transition: 0.5s;
-    font-family: fantasy;
+    font-family: 'Underdog', cursive;
     pointer-events: none;
 }
 
