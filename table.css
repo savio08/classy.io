@@ -341,8 +341,9 @@ p {
     font-weight: 900;
     color: rgba(221, 209, 209, 0.037);
     transition: 0.5s;
-    font-family: 'Underdog', cursive;
+    font-family: 'Montserrat', sans-serif;
     pointer-events: none;
+    font-weight: 900;
 }
 
 .container .card:hover .box .content h2 {
